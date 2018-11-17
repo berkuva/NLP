@@ -1,0 +1,1 @@
+# Use Hidden Markov Model and the Viterbi algorithm to generate POS(Part of Speech) tagging. 95% accuracy.
